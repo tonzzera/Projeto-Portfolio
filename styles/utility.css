@@ -8,3 +8,23 @@
 .red{
     color: var(--red);
 }
+
+.sub{
+    font: var(--sub);
+}
+
+.title-md{
+    font: var(--title-md);
+}
+
+.title-sm{
+    font: var(--title-sm);
+}
+
+.text-md{
+    font: var(--text-md);
+}
+
+.text-sm{
+    font: var(--text-sm);
+}

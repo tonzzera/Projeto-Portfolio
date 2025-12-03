@@ -36,6 +36,18 @@
 }
 
 body{
-    background-color: var(--gray400);
+    background-color: var(--gray500);
     
+}
+
+main{
+    span{
+        color: var(--red);
+        font: var(--inco);
+    }
+    h2{
+        font: var(--title-md);
+        color: var(--gray100);
+
+    }
 }
