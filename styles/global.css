@@ -1,0 +1,41 @@
+* {
+/*reset de margin, de padding e por ultimo jogando o projeto para border-box.. para que ele nao conte o pad dentro do elemento*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+/* declaração de variaveis de fontes */ 
+    --sub:400 20px/120% var(--inco);
+    --text-md:400 16px/140% var(--maven);
+    --text-sm:400 14px/140% var(--maven);
+    --title-lg: 700 56px/120% var(--asap);
+    --title-md: 700 24px/120% var(--asap);
+    --title-sm: 700 16px/120% var(--asap);
+
+/*declaração de variaveis de cores que serão utilizadas no projeto*/
+    --red: #E3646E;
+    --purple: #BB72E9;
+    --blue: #3996DB;
+    --green: #82BC4F;
+    --yellow: #EABD5F;
+    --gray100: #E2E4E9;
+    --gray200: #C0C4CE;
+    --gray300: #878EA1;
+    --gray400: #292C34;
+    --gray500: #16181D;
+    --gray600: #0D0E11;
+
+/* declaração de variaveis relacionadas as fontes*/
+    --maven: "Maven Pro", sans-serif;
+    --inco: "Inconsolata", monospace;
+    --asap: "Asap", sans-serif;
+
+}
+
+body{
+    background-color: var(--gray400);
+    
+}

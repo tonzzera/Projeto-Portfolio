@@ -1,0 +1,94 @@
+/*aqui eu estou centralizando a imagem do bg e adicionando padding e tamanho de todo o header,
+ normalmente nao seria indicado a fazer isso.
+ Porem nesse projeto foi identificado a necessidade, pois os professores dividiram o projeto em 4 partes
+e cada um com sua propria peculiaridade*/
+
+header {
+    background-image: url(/assets/Background_Intro.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1366px;
+    height: 750px;
+    margin-inline: auto;
+    padding-inline: 163px;
+
+}
+
+/*todos os seletores (PRESENTATION) esta ajustando o layout dele centralizado ao meio
+e estilizando as fontes.
+Vale ressaltar que o primeiro p utiliza uma fonte diferente o ultimo p
+e o h1 tem color e uma fonte diferente de ambos.*/
+
+#presentation {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#presentation img {
+    margin-top: 120px;
+    margin-bottom: 56px;
+
+}
+
+#presentation p:nth-child(2) {
+    font: var(--sub);
+    color: var(--gray200);
+    margin-bottom: 8px;
+}
+
+#presentation h1 {
+    font: var(--title-lg);
+    color: var(--gray100);
+    margin-bottom: 20px;
+}
+
+#presentation p:nth-child(4) {
+    font: var(--text-sm);
+    color: var(--gray300);
+    max-width: 680px;
+    margin-bottom: 80px;
+}
+
+/* a parte das tecnologias o correto seria
+adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
+
+
+.techs {
+    display: flex;
+    padding-block: 8px;
+    padding-inline: 16px;
+    align-items: center;
+    gap: 8px;
+    border-radius: 999px;
+    background-color: var(--gray400);
+    font: var(--text-md);
+    color: var(--gray200);
+}
+
+
+.user-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 96px;
+}
+
+#header-tech {
+    margin-inline: auto;
+    width: 754px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 94px;
+}
+
+/* é apenas para centralizar o svg da seta ao meio*/
+
+#arrow {
+    display: flex;
+    justify-content: center;
+}

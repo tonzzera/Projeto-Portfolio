@@ -1,0 +1,10 @@
+/*Neste arquivo sera adicionado todas as class utilitarias do projeto*/
+
+
+.flex{
+    display: flex;
+}
+
+.red{
+    color: var(--red);
+}
