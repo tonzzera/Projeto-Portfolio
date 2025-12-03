@@ -28,3 +28,17 @@
 .text-sm{
     font: var(--text-sm);
 }
+
+.img-sm{
+    width: 20px;
+    height: 20px;
+}
+
+.img-md{
+    width: 28px;
+    height: 28px;
+}
+
+.purple{
+    color: var(--purple);
+}
