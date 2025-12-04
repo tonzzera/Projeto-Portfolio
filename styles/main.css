@@ -126,15 +126,24 @@
 
 .app-hover:hover{
     border: 1px solid #BB72E9;
+    .icon-hover{
+        content: url(/assets/hover/Devices-hover.svg);
+    }
 }
 
 .api-hover:hover{
     border: 1px solid #F9D65C;
+    .icon-hover{
+        content: url(/assets/hover/HardDrives-hover.svg);
+    }
 }
 
 /*class de hover da section de serviços*/
 .devops-hover:hover {
      border: 1px solid #21C96C;
+     .icon-hover{
+        content: url(/assets/hover/Infinity-hover.svg);
+    }
 }
 
 
@@ -207,6 +216,13 @@
         color: #3FAEFD;
     }
 
+    .icon-hover{
+        content: url(/assets/hover/LinkedinLogo-hover.svg);
+    }
+    .arrow-hover{
+        content: url(/assets/hover/seta-linkedin-hover.svg);
+    }
+
 }
 
 .social-insta:hover {
@@ -215,6 +231,13 @@
 
     span {
         color: #FF5A99;
+    }
+
+    .icon-hover{
+        content: url(/assets/hover/InstagramLogo-hover.svg);
+    }
+    .arrow-hover{
+        content: url(/assets/hover/seta-insta-hover.svg);
     }
 
 }
@@ -227,6 +250,13 @@
         color: #AEB6C1;
     }
 
+    .icon-hover{
+        content: url(/assets/hover/GitHub-hover.svg);
+    }
+    .arrow-hover{
+        content: url(/assets/hover/seta-git-hover.svg);
+    }
+
 }
 
 .social-email:hover {
@@ -235,6 +265,13 @@
 
     span {
         color: #FF4A3D;
+    }
+
+    .icon-hover{
+        content: url(/assets/hover/EnvelopeSimple-hover.svg);
+    }
+    .arrow-hover{
+        content: url(/assets/hover/seta-email-hover.svg);
     }
 
 }

@@ -95,6 +95,9 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
     span{
         color:#FF91DA ;
     }
+    .icon-hover{
+        content: url(/assets/hover/HTML-hover.svg);
+    }
    
 }
 
@@ -103,11 +106,17 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
     span{
         color:#3FA9FF ;
     }
+    .icon-hover{
+        content: url(/assets/hover/CSS-hover.svg);
+    }
 }
 .tech-js:hover{
     border: 1px solid #F9D65C;
     span{
         color:#F9D65C ;
+    }
+    .icon-hover{
+        content: url(/assets/hover/JavaScript-hover.svg);
     }
 }
 .tech-react:hover{
@@ -115,11 +124,17 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
     span{
         color:#4EC6E9 ;
     }
+    .icon-hover{
+        content: url(/assets/hover/React-hover.svg);
+    }
 }
 .tech-node:hover{
     border: 1px solid #21C96C;
     span{
         color:#21C96C ;
+    }
+    .icon-hover{
+        content: url(/assets/hover/Node.js-hover.svg);
     }
 }
 
