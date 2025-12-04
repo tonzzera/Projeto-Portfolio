@@ -96,7 +96,7 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
         color:#FF91DA ;
     }
     .icon-hover{
-        content: url(/assets/hover/HTML-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/HTML-hover.svg);
     }
    
 }
@@ -107,7 +107,7 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
         color:#3FA9FF ;
     }
     .icon-hover{
-        content: url(/assets/hover/CSS-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/CSS-hover.svg);
     }
 }
 .tech-js:hover{
@@ -116,7 +116,7 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
         color:#F9D65C ;
     }
     .icon-hover{
-        content: url(/assets/hover/JavaScript-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/JavaScript-hover.svg);
     }
 }
 .tech-react:hover{
@@ -125,7 +125,7 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
         color:#4EC6E9 ;
     }
     .icon-hover{
-        content: url(/assets/hover/React-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/React-hover.svg);
     }
 }
 .tech-node:hover{
@@ -134,7 +134,7 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
         color:#21C96C ;
     }
     .icon-hover{
-        content: url(/assets/hover/Node.js-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/Node.js-hover.svg);
     }
 }
 
