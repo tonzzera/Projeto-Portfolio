@@ -85,6 +85,47 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
     gap: 16px;
     margin-bottom: 94px;
 }
+/*class de hover do header*/
+.tech-git:hover{
+    border: 1px solid #6E7681;
+}
+
+.tech-html:hover{
+    border: 1px solid #FF91DA;
+    span{
+        color:#FF91DA ;
+    }
+   
+}
+
+.tech-css:hover{
+    border: 1px solid #3FA9FF;
+    span{
+        color:#3FA9FF ;
+    }
+}
+.tech-js:hover{
+    border: 1px solid #F9D65C;
+    span{
+        color:#F9D65C ;
+    }
+}
+.tech-react:hover{
+    border: 1px solid #4EC6E9;
+    span{
+        color:#4EC6E9 ;
+    }
+}
+.tech-node:hover{
+    border: 1px solid #21C96C;
+    span{
+        color:#21C96C ;
+    }
+}
+
+
+
+
 
 /* é apenas para centralizar o svg da seta ao meio*/
 
@@ -92,3 +133,5 @@ adicionar um hover nelas alterando a cor vou deixar isso para outra hora*/
     display: flex;
     justify-content: center;
 }
+
+
