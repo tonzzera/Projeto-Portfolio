@@ -127,14 +127,14 @@
 .app-hover:hover{
     border: 1px solid #BB72E9;
     .icon-hover{
-        content: url(/assets/hover/Devices-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/Devices-hover.svg);
     }
 }
 
 .api-hover:hover{
     border: 1px solid #F9D65C;
     .icon-hover{
-        content: url(/assets/hover/HardDrives-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/HardDrives-hover.svg);
     }
 }
 
@@ -142,7 +142,7 @@
 .devops-hover:hover {
      border: 1px solid #21C96C;
      .icon-hover{
-        content: url(/assets/hover/Infinity-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/Infinity-hover.svg);
     }
 }
 
@@ -217,10 +217,10 @@
     }
 
     .icon-hover{
-        content: url(/assets/hover/LinkedinLogo-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/LinkedinLogo-hover.svg);
     }
     .arrow-hover{
-        content: url(/assets/hover/seta-linkedin-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/seta-linkedin-hover.svg);
     }
 
 }
@@ -234,10 +234,10 @@
     }
 
     .icon-hover{
-        content: url(/assets/hover/InstagramLogo-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/InstagramLogo-hover.svg);
     }
     .arrow-hover{
-        content: url(/assets/hover/seta-insta-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/seta-insta-hover.svg);
     }
 
 }
@@ -251,10 +251,10 @@
     }
 
     .icon-hover{
-        content: url(/assets/hover/GitHub-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/GitHub-hover.svg);
     }
     .arrow-hover{
-        content: url(/assets/hover/seta-git-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/seta-git-hover.svg);
     }
 
 }
@@ -271,7 +271,7 @@
         content: url(/assets/hover/EnvelopeSimple-hover.svg);
     }
     .arrow-hover{
-        content: url(/assets/hover/seta-email-hover.svg);
+        content: url(https://github.com/tonzzera/Projeto-Portfolio/blob/master/assets/hover/seta-email-hover.svg);
     }
 
 }
